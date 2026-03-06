@@ -1,0 +1,4 @@
+claude-viz
+*.exe
+dist/
+.DS_Store
